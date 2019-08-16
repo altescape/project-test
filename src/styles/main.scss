@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 300;
+}
+
+h1, h2, h3 {
+  font-family: 'Oleo Script', cursive;
+}
+
+.lead {
+  font-weight: 300;
+}
+
+.text-underline {
+  text-decoration: underline;
+}
+
+.fade-enter-active, .fade-leave-active {
+  transition: opacity .5s;
+}
+.fade-enter, .fade-leave-to {
+  opacity: 0;
+}
+
+.btn-primary {
+  color: white !important;
+}
+
+.btn-dark:disabled {
+  background-color: #F8F8F8;
+  border-color: #F8F8F8;
+  color: #BBBBBB;
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus,
+input:-webkit-autofill:active  {
+  -webkit-box-shadow: 0 0 0 30px #eafff8 inset !important;
+}
