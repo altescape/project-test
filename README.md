@@ -4,7 +4,7 @@ https://project-test-mike-watts.herokuapp.com/
 
 ## Summary
 
-The form has been built using Vuex and Vue router, a bit overkill here,
+The form has been built using Vuex and Vue router, it's a bit overkill here,
 but still very helpful to use.
 
 - Uses Vuex
